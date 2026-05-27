@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* 기본 폰트와 색상 (라이트/다크 모두 대응) */
+html {
+  font-family: system-ui, "Segoe UI", Roboto, sans-serif;
+  color-scheme: light dark;
+}
