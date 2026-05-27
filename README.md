@@ -1,6 +1,9 @@
 # Task Manager Frontend (React 데모)
 
-[Spring Boot API Starter Kit](https://github.com/Soliloquiess/springboot-api-starter-kit)의
+> ### 🔗 관련 저장소 — 백엔드
+> 이 데모가 호출하는 REST API: **[springboot-api-starter-kit](https://github.com/Soliloquiess/springboot-api-starter-kit)**
+> 두 저장소는 한 쌍의 **풀스택 데모**입니다. 함께 실행하면 동작합니다 — 백엔드 `:8080` + 프론트 `:5173`
+
 할 일(Task) REST API를 소비하는 프론트엔드 데모입니다.
 Vite + React + TypeScript + Tailwind CSS 조합으로, 새 프론트 프로젝트를 빠르게 시작하는 템플릿으로도 쓸 수 있습니다.
 
